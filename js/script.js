@@ -1,9 +1,5 @@
 
 
-alert("Hello! How are you?");
-
-alert("Welcome to my <Code> Louisville Project!");
-
 $( function() {
   // run the currently selected effect
   function runEffect() {
